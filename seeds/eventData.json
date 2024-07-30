@@ -1,0 +1,33 @@
+[
+  {
+    "event_title": "Emery Creek Falls Hike",
+    "event_content": "Hey everyone! I am going for a medium difficulty hike at Emery Creek Falls. Meet at the Emery Creek trailhead parking lot at 7 AM on Saturday 8/3/24. Should be about 6 miles total. Dont forget to pack water. Join me to see some waterfalls!",
+    "event_author": 1,
+    "event_location": 2,
+    "event_attendees": 1
+  },
+
+  {
+    "event_title": "Wilderness Walk",
+    "event_content": "Hi guys! A friend and I are looking for others to join us for a 10 miler in Saint Marys Wilderness park. We will meet at the parking lot in the front of the park. Planning for Sunday 8/11/24 weather permitting. I'll post updates if any changes.",
+    "event_author": 2,
+    "event_location": 1,
+    "event_attendees": 2
+  },
+
+  {
+    "event_title": "Amazing Mountain Views",
+    "event_content": "New to this page! I am dying to hike Graveyard Fields and catch some mountain views. Anyone free on Saturday 8/10/24 to join me? The plan will be to meet at noon at Cherry Cover overlook. I am bringing snacks and happy to share. Don't forget sunscreen!",
+    "event_author": 3,
+    "event_location": 3,
+    "event_attendees": 3
+  },
+
+  {
+    "event_title": "Tuesday Sunset Walk",
+    "event_content": "Going for an evening hike at Cellar Mountain to catch the sunset. Would love for anyone interedted to join. I will be at the trailhead at 5PM Tuesday 8/13 and the hike should not be to difficult. Bring a camera if you ahve it, because the views are insane.",
+    "event_author": 4,
+    "event_location": 1,
+    "event_attendees": 4
+  }
+]

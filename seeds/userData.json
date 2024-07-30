@@ -1,0 +1,27 @@
+[
+    {
+       "email": "hiker123@gmail.com",
+        "username": "takeahike7",
+       "password": "Dogsarecool123"
+
+    },
+
+    {
+        "email": "mountains123@gmail.com",
+        "username": "mountainlover",
+        "password": "Password123"
+    },
+
+    {
+        "email": "blueskies123@gmail.com",
+        "username": "blueskies56",
+        "password": "Blablabla123"
+
+    },
+
+    {
+        "email": "outdoors123@gmail.com",
+        "username": "outdoorguy2",
+        "password": "yadayada123"
+    }
+]
